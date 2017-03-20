@@ -3,5 +3,8 @@
 
     <permission android:name="com.bearduck.wenga.logger.PERMISSION"/>
 
+    <application>
+    </application>
+
 </manifest>
 
